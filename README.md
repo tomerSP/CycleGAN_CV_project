@@ -1,1 +1,2 @@
-"# CycleGAN_CV_project" 
+Convolutional Neural Networks for Visual Recognition.
+Final project.
